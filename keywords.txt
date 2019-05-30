@@ -12,17 +12,17 @@ NCP5623	KEYWORD1
 # Methods and Functions (KEYWORD2)
 ##################################
 begin	KEYWORD2
-setColor    KEYWORD2
-setChannel  KEYWORD2
-setCurrent  KEYWORD2
-setRed  KEYWORD2
-setGreen    KEYWORD2
-setBlue KEYWORD2
-mapColors   KEYWORD2
-writeReg    KEYWORD2
+setColor	KEYWORD2
+setChannel	KEYWORD2
+setCurrent	KEYWORD2
+setRed	KEYWORD2
+setGreen	KEYWORD2
+setBlue	KEYWORD2
+mapColors	KEYWORD2
+writeReg	KEYWORD2
 
 ###########################################
 # Constants (LITERAL1)
 ###########################################
-NCP5623_DEFAULT_ADDR LITERAL1
-NCP5623_REG_ILED    LITERAL1
+NCP5623_DEFAULT_ADDR	LITERAL1
+NCP5623_REG_ILED	LITERAL1
